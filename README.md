@@ -1,7 +1,7 @@
 
 ### Hi, I'm Sai Krishna🙌
 
-<br>🌱 I’m currently pursuing my under-graduation at JNTUH College of Engineering.
+<br>🌱 I’m currently pursuing my under-graduation at JNTUH College of Engineering,Jagtial.
 ##### Open for internship opportunities.
 
 ## 💻 I am a Django developer
