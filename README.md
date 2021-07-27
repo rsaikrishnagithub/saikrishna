@@ -1,4 +1,3 @@
-# rsaikrishnagithub
 
 ### Hi, I'm Sai Krishna🙌
 
