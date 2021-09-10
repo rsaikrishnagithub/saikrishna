@@ -12,7 +12,7 @@
 <br>Feel free to mail me at:✉<a href='mailto:r.saikrishnaofficial@gmail.com'>r.saikrishnaofficial@gmail.com</a><br>
 
 <br>📫 check out my profiles at:
-<br>&ensp;&ensp;&ensp;✔<a href='https://www.linkedin.com/in/saikrishnaramagiri/'>Linkedin</a>
+<br>&ensp;&ensp;&ensp;✔<a target='_blank' href='https://www.linkedin.com/in/saikrishnaramagiri/'>Linkedin</a>
 <br>&ensp;&ensp;&ensp;✔<a href='https://leetcode.com/saikrishnar/'>Leetcode</a>
 <br>&ensp;&ensp;&ensp;✔<a href='https://www.hackerrank.com/r_saikrishnaoff'>HackerRank</a>
 
