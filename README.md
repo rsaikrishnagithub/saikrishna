@@ -18,7 +18,7 @@
 
 ## Skills
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+<img align="left" alt="C++" width="26px" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" /> 
 <img align="left" alt="django" width="70px" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/django.svg">
