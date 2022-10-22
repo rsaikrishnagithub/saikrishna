@@ -1,13 +1,16 @@
 
 ### Hi, I'm Sai Krishna🙌
 
-<br>🌱 I’m currently pursuing my under-graduation at JNTUH College of Engineering,Jagtial.
+<br>🌱 I have pursued my under-graduation at JNTUH College of Engineering,Jagtial. 
+#### A 2022 Pass-out candidate.
 ### 📌Open for internship opportunities.
 
 ## 💻 I am a Django developer
 
 - I love to make websites using django
-- solved 50+ problems on [Leetcode](https://leetcode.com/saikrishnar/)
+
+<br> C++ is my language
+<br>Solved 50+ problems on [Leetcode](https://leetcode.com/saikrishnar/)
 
 <br>Feel free to mail me at:✉<a href='mailto:r.saikrishnaofficial@gmail.com'>r.saikrishnaofficial@gmail.com</a><br>
 
